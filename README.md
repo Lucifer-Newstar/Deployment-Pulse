@@ -82,6 +82,6 @@ POST /actions/rollback/:id # create rollback PR
 
 ## Team
 
-**Navin Jairam M** DevOps & Full-Stack Engineering �� [navin.jairam@gmail.com](mailto:navin.jairam@gmail.com)
+**Navin Jairam M** DevOps & Full-Stack Engineering [navin.jairam@gmail.com](mailto:navin.jairam@gmail.com)
 
-**Jegatheesan K** Full-Stack Development & UI/UX �� [jegatheesanjegatheesan216@gmail.com](mailto:jegatheesanjegatheesan216@gmail.com)
+**Jegatheesan K** Full-Stack Development & UI/UX [jegatheesanjegatheesan216@gmail.com](mailto:jegatheesanjegatheesan216@gmail.com)
